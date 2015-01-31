@@ -8,3 +8,4 @@ meteor-platform
 autopublish
 insecure
 useraccounts:bootstrap
+accounts-password
