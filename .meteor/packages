@@ -10,3 +10,4 @@ insecure
 useraccounts:bootstrap
 accounts-password
 pinglamb:bootstrap3
+iron:router
